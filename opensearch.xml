@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+    <ShortName>Layarkaco21</ShortName>
+    <Description>Layarkaco21 Search</Description>
+    <Url type="text/html" method="get" template="https://playmovie4.blogspot.co.id/search?q={searchTerms}&amp;utm_source=ops&amp;utm_medium=wb&amp;utm_campaign=OpenSearch"/>
+    <Image width="16" height="16">https://playmovie4.blogspot.co.id/favicon.ico</Image>
+    <InputEncoding>UTF-8</InputEncoding>
+    <moz:SearchForm>https://playmovie4.blogspot.co.id</moz:SearchForm>
+</OpenSearchDescription>

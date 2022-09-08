@@ -1,2 +1,1 @@
-# codegoogle
-js theme lk2
+# googlecode

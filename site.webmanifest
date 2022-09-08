@@ -1,0 +1,23 @@
+{
+    "name": "Layarkaco21 - Nonton Film Dubbing Indonesia",
+    "short_name": "Layarkaco21",
+    "icons": [
+        {
+            "src": "https://lh3.googleusercontent.com/-aCdg_Lq3eCI/Yti9DQlpa-I/AAAAAAAAA3w/d3AcJM8eRL8qki54Tdul2zH-PTjsyHEIACNcBGAsYHQ/h120/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://lh3.googleusercontent.com/-fQFq4ncXF4k/Yti9DKgDuFI/AAAAAAAAA3s/YHiE1IZlcow8l5r4M2xVOxyzkNYKUYU8wCNcBGAsYHQ/s1600/android-chrome-512x512.pngg",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#006b3c",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://rahmatwap.blogspot.com/"
+}
